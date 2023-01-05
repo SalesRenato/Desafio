@@ -1,0 +1,11 @@
+Guia de Estudos:
+
+Introdução a lógica.
+
+Variáveis.
+
+Estrutura de repetição.
+
+Estrutura de seleção
+
+POO
